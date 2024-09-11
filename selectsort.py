@@ -1,4 +1,4 @@
-
+#Este lo añado porque ya lo habia hecho cuando dijeron que se debia usar minimo C-C++
 
 def selec_sort(lista):
     i = 0
